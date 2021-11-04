@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Packages
-parent: Hands On
+parent: The Basics
 nav_order: 3
 ---
 ### **Packages**
