@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hands On
+title: The Basics
 nav_order: 5
 has_children: true
 ---
-# Hands On Activities
+# The Basics of R
