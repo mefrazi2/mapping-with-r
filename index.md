@@ -20,4 +20,6 @@ nav_order: 1
 > 
 > 3. Understand how to use basic functions and arguments 
 > 
-> 4. Ability to make a simple map in R
+> 4. Ability to make a simple map in R like this one: 
+
+> add map photo
