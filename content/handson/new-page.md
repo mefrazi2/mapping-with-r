@@ -2,7 +2,7 @@
 layout: default
 title: Add a New Page
 parent: Hands On
-nav_order: 3
+nav_order: 5
 ---
 # Add a New Page
 
