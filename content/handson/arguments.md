@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arguments
-parent: Hands On
+parent: The Basics
 nav_order: 2
 ---
 ### **Arguments**
