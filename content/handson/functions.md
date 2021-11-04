@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Functions
-parent: Hands On
+parent: The Basics
 nav_order: 1
 ---
 ### **Functions**
