@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualizations
-parent: Hands On
+parent: The Basics
 nav_order: 4
 ---
 ### **Data Visualizations**
