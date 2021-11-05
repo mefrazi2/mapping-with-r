@@ -17,7 +17,7 @@ nav_order: 2
 > Go to the R studio website, and follow the links to download [RStudio](https://www.rstudio.com/). The version you want is the “RStudio Desktop”. Once the installer is downloaded, open it and follow the instructions.
 
 
-Works cited: 
-1. [R](https://www.r-project.org/about.html)
-2. [RStudio](https://www.rstudio.com/products/rstudio/)
-3. Navarro, Danielle. [Learning statistics with R](https://tidylsr.djnavarro.net/index.html).
+> #### **Works cited:** 
+> 1. [R](https://www.r-project.org/about.html)
+> 2. [RStudio](https://www.rstudio.com/products/rstudio/)
+> 3. Navarro, Danielle. [Learning statistics with R](https://tidylsr.djnavarro.net/index.html).
