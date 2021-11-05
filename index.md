@@ -16,9 +16,9 @@ nav_order: 1
 > By the end of this demo, you should be able to:
 > 1. Define what R is and how it's applied to solve spatial problems
 > 
-> 2. Add GIS data formats like shapefiles
+> 2. Adding GIS data in formats like shapefiles
 > 
-> 3. Understand how to use basic functions and arguments 
+> 3. Understand how to use basic R functions and arguments 
 > 
 > 4. Ability to make a simple map in R like this one: 
 
