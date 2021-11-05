@@ -26,7 +26,7 @@ nav_order: 2
 > 
 > The **files** lists all the files and folders in your root directory. The **plots** panel produces data visualizations, which will be important for today's tutorial. **Packages** are additional tools you can import and use when performing your analysis. A frequent analogy people use to explain packages is your phone and the apps you install. Each package you download is equivalent to an app on your phone. The **help**  panel allows you to search for specific topics, for example how certain computations work. It provides additional metadata that may be important in determining how a function or argument works. 
 >  
-> ![RStudio Interface](/img/rstudio.jpg)
+>![RStudio Interface](/img/rstudio.jpg)
 
 
 > #### **Works cited:** 
