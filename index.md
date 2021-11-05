@@ -22,4 +22,4 @@ nav_order: 1
 > 
 > 4. Ability to make a simple map in R like this one: 
 
-> add map photo
+> [ ](/img/final_map.jpg)
