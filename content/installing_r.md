@@ -18,15 +18,19 @@ nav_order: 2
 
 > ### **RStudio Interface**
 > 
-> The **console** is where you can type commands and see output. 
-> The **workspace** tab shows all the active objects. The **history** tab shows a list of commands used so far. 
-> The **files** tab shows all the files and folders in your default workspace as if you were on a PC/Mac window. The **plots** tab will show all your graphs. The **packages** tab will list a series of packages or add-ons needed to run certain processes. If you're stuck, check out the **help** tab for more information. 
+> The **console** is where you will find the output of your coding and computations.
+> 
+> The **source window** can fulfil many functions, such astab shows all the active objects. The term ‘source’ can be understood as any type of file, e.g. data, programming code, notes, etc.
+> 
+> The **environment** tab shows you objects which are available for computation. The **history** tab stores your computatipns you in the consol. The **connections** tab allows you to tap into external databases directly. You can find additional materials to learn R and RStudio in the **tutorials** tab. 
+> 
+> The **files** lists all the files and folders in your root directory. The **plots** panel produces data visualizations, which will be important for today's tutorial. **Packages** are additional tools you can import and use when performing your analysis. A frequent analogy people use to explain packages is your phone and the apps you install. Each package you download is equivalent to an app on your phone. The **help**  panel allows you to search for specific topics, for example how certain computations work. It provides additional metadata that may be important in determining how a function or argument works. 
 >  
-> ![ ](/img/rstudio.jpg)
+> ![RStudio Interface](/img/rstudio.jpg)
 
 
 > #### **Works cited:** 
 > 1. [R](https://www.r-project.org/about.html)
 > 2. [RStudio](https://www.rstudio.com/products/rstudio/)
 > 3. Navarro, Danielle. [Learning statistics with R](https://tidylsr.djnavarro.net/index.html).
-> 4. Torres-Reyna, Oscar. [Introduction to RStudio](https://dss.princeton.edu/training/RStudio101.pdf)
+> 4. Dauber, Daniel. [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/the-rstudio-interface.html)
