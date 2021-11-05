@@ -20,8 +20,9 @@ nav_order: 2
 > 
 > The **console** is where you can type commands and see output. 
 > The **workspace** tab shows all the active objects. The **history** tab shows a list of commands used so far. 
-> The **files** tab shows all the files and folders in your default workspace as if you were on a PC/Mac window. The **plots** tab will show all your graphs. The **packages** tab will list a series of packages or add-ons needed to run certain processes. If you're stuck, check out the **help** tab for more information.  
-> ![](/img/rstudio.jpg)
+> The **files** tab shows all the files and folders in your default workspace as if you were on a PC/Mac window. The **plots** tab will show all your graphs. The **packages** tab will list a series of packages or add-ons needed to run certain processes. If you're stuck, check out the **help** tab for more information. 
+>  
+> ![ ](/img/rstudio.jpg)
 
 
 > #### **Works cited:** 
