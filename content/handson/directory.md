@@ -10,7 +10,7 @@ nav_order: 4
 
 > <img src="https://raw.githubusercontent.com/mefrazi2/mapping-with-r/main/img/getwd.jpg">
 
-> I can see that my working directory isn't what I want it to be (and yours might not be either). Let's create a new folder on our desktop called `mapping_w_r_data` and set our working directory to this file path. Once you're new folder is created, type the function `setwd` followed by the appropriate file path with *forward* slashes (you may have to fix these manually). 
+> I can see that my working directory isn't what I want it to be (and yours might not be either). Let's try changing our working directory to a random folder on our desktop instead. The easiest way to do this is to open up your file explorer and copy your desktop file path. In my example I'll be using our folder we'll be downloading for the example. Once you've copied your file path, type the function `setwd` followed by the appropriate file path with *forward* slashes (you may have to fix these manually). 
 
 > <img src="https://raw.githubusercontent.com/mefrazi2/mapping-with-r/main/img/setwd.jpg">
 
