@@ -8,7 +8,7 @@ nav_order: 5
 ### **The Challenger**
 > If you want to push your R skills to the limit, let's use another popular data visualization package called `ggplot2`. 
 
-> #### `ggplot(data = define_data, aes(fill = define_variable)) + 
+> `ggplot(data = define_data, aes(fill = define_variable)) + 
   geom_sf() + 
   scale_fill_distiller(palette = "RdPu", 
                        direction = 1) + 
