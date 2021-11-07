@@ -7,6 +7,8 @@ nav_order: 3
 
 One of the easiest things you can do with R is use it as a simple calculator, so it’s a good place to start. For instance, try typing 30, and hitting enter. When you do this, you’ve entered a command, and R will execute that command. What you see on screen now will be this:
 
+> <img src="https://raw.githubusercontent.com/mefrazi2/mapping-with-r/main/img/command_example.jpg">
+
 ## 10 + 20
 
 ## [1] 30
