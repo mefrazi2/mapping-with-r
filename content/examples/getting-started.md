@@ -6,7 +6,7 @@ nav_order: 0
 ---
 
 ### **Download Data**
-> Download the data from [here](/data/mapping_w_r_data.zip). Save it to a space that's easy for you (ex: I like to save my working files to my desktop). 
+> Download the data from [here](https://github.com/mefrazi2/mapping-with-r/blob/1084f9e37a3b9336a98240890f1f6cf1efc760b2/data/mapping_w_r_data.zip). Save it to a space that's easy for you (ex: I like to save my working files to my desktop). 
 
 ### **Unzip the Data**
 > **Unzip** the file and open the R markdown file (`workshop_script.R`). **This is how you will follow step-by-step instructions for the demonstration.**
