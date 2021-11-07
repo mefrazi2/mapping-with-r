@@ -4,4 +4,4 @@ title: Demonstration
 nav_order: 7
 has_children: true
 ---
-# Go through each step to complete the R workshop.
+# Work through the links to complete the R workshop.
