@@ -6,7 +6,7 @@ nav_order: 2
 ---
 ### **Arguments**
 
-> Arguments are customizable parameters of a function. Sometimes default arguments are used if not specified. Let's type the following line of code to our console: 
+> Arguments are customizable parameters of a function. Sometimes default arguments are used if not specified. For instance, we may type the following line of code to our console: 
 >
 >
 > <img src="https://raw.githubusercontent.com/mefrazi2/mapping-with-r/main/img/help.jpg">
