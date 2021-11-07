@@ -11,5 +11,5 @@ nav_order: 3
 ### **Installing Packages**
 > Installing packages is easy! Use the function `install.packages()` to add any package not inherent to R. 
 
-#### **library() function**
+### **library() function**
 > Once you've installed a package, R will cache the package until you decide to uninstall or the package is no longer supported. However, you will need to "call up" your package each time you start a new session with R. You'll do this by using the `library()` function.  
