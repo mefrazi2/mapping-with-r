@@ -10,7 +10,7 @@ nav_order: 1
 ### **UPP 462: Project 2 - Special Topics**
 
 ### **Workshop Goal**
-> This workshop is meant to familirize yourself with the basics of mapping in R. You do not need prior experience working with R, but having a general curiosity about computer science will help. You'll be asked a series of questions after each module (about 5 total) and to produce a few maps. An answer key is provided at the end. 
+> This workshop is meant to familarize yourself with the basics of mapping in R. You do not need prior experience working with R, but having a general curiosity about computer science will help. You'll be asked a series of questions after each module (about 5 total) and to produce a few maps. An answer key is provided at the end. 
 
 ### **Learning Outcomes**
 > By the end of this demo, you should be able to:
