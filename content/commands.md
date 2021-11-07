@@ -16,4 +16,4 @@ Not a lot of surprises in this extract. But there’s a few things worth talking
 Secondly, it’s important to understand how the output is formatted. When you look at the output on your screen it will probably look like this [1] 30. Obviously, the correct answer to the sum 10 + 20 is 30, and not surprisingly R has printed that out as part of its response. But it’s also printed out this [1] part, which probably doesn’t make a lot of sense to you right now. For now you can think of [1] 30 as if R were saying “the answer to the first question you asked is 30”. That’s not quite the truth, but it’s close enough for now. 
 
 > #### **Works Cited**
-> 1. 
+> 1. Navarro, Danielle. [Learning statistics with R.](https://learningstatisticswithr.com/)
