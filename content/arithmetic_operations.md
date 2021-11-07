@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Arithmetic Options
+title: Arithmetic Operations
 nav_order: 4
 ---
-### **Arithmetic Options**
+### **Arithmetic Operations**
 
 > R has operators that correspond to the basic arithmetic we learned in primary school: addition is +, subtraction is -, multiplication is * and division ia /. As you can see, R uses fairly standard symbols to denote each of the different operations you might want to perform: if I wanted to find out what 57 times 61 is (and who wouldn’t?), I can use R instead of a calculator, like so:
 
