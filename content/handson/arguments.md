@@ -9,6 +9,7 @@ nav_order: 2
 > Arguments are customizable parameters of a function. Sometimes default arguments are used if not specified. Let's type the following line of code to our console: 
 
 > <img src="https://raw.githubusercontent.com/mefrazi2/mapping-with-r/main/img/help.jpg">
+> 
 > We typed the function `help` and then specified the argument (`package = cartography`). We could have easily just typed the function, without defining an argument (`help()`).
 
 > In the **Help** tab, we see information about the package `cartography` is pulled up, including all the functions within the package. This is super useful, and something you'll want to consult if you get stuck. 
