@@ -11,6 +11,8 @@ nav_order: 4
 
 > Try playing around with different colors, titles, and even variables that we visualize. For instance, challenge yourself to making a categorical map of Chicago communities with labels. 
 
-> Hint: Run this code. 
+> #### Hint: Run this code. 
+> 
 > `tm_shape(chi_comm) + tm_polygons("community") + tm_layout(legend.outside = TRUE, legend.outside.position = "right")` 
+> 
 > What feedback message do we get? What does it mean? 
