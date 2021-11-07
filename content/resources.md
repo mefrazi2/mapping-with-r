@@ -10,6 +10,6 @@ nav_order: 9
 > > 3. [RStudio](https://www.rstudio.com/products/rstudio/)
 > > 4. Navarro, Danielle. [Learning statistics with R](https://tidylsr.djnavarro.net/index.html).
 > > 5. Dauber, Daniel. [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/the-rstudio-interface.html)
-> > 6. 
+> > 6. Phillips, Nathanial D. [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 
 ## Thanks for trying this workshop! Feedback is welcomed. ##
