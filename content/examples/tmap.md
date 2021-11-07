@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Tmap Function
+title: Tmap Package
 parent: Demonstration
 nav_order: 4
 ---
 
 
-### **tmap Function**
-> We'll be using the function `tmap` heavily in this demonstration. Documentation on tmap can be found [here](https://www.rdocumentation.org/packages/tmap/versions/3.3-2), but also remember the `help(package = "tmap")` command.
+### **tmap Package**
+> We'll be using the package `tmap` heavily in this demonstration. Documentation on tmap can be found [here](https://www.rdocumentation.org/packages/tmap/versions/3.3-2), but also remember the `help(package = "tmap")` command.
 
-> Try playing around with different colors, titles, and even variables that we visualize. For instance, challenge yourself to making a categorical map of Chicago communities with labels. 
+> Try playing around with some of the functions found within this package (some are listed in our demo). You might try visualizing the Chicago map with different colors, titles, or variables. Perhaps even challenge yourself to making a categorical map of Chicago communities with a legend! 
 
 > #### Hint: Run this code. 
 > 
